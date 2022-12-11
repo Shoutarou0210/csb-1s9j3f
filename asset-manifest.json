@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/main.e1b72862.chunk.js",
-    "main.js.map": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/main.e1b72862.chunk.js.map",
-    "runtime-main.js": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/runtime-main.454d8f0a.js",
-    "runtime-main.js.map": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/runtime-main.454d8f0a.js.map",
-    "static/js/2.f518b678.chunk.js": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/2.f518b678.chunk.js",
-    "static/js/2.f518b678.chunk.js.map": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/2.f518b678.chunk.js.map",
-    "index.html": "https://shoutarou0210.github.io/csb-1s9j3f/index.html",
-    "static/js/2.f518b678.chunk.js.LICENSE.txt": "https://shoutarou0210.github.io/csb-1s9j3f/static/js/2.f518b678.chunk.js.LICENSE.txt"
+    "main.js": "https://.github.io/csb-1s9j3f/static/js/main.e1b72862.chunk.js",
+    "main.js.map": "https://.github.io/csb-1s9j3f/static/js/main.e1b72862.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-1s9j3f/static/js/runtime-main.474454e8.js",
+    "runtime-main.js.map": "https://.github.io/csb-1s9j3f/static/js/runtime-main.474454e8.js.map",
+    "static/js/2.bd89aead.chunk.js": "https://.github.io/csb-1s9j3f/static/js/2.bd89aead.chunk.js",
+    "static/js/2.bd89aead.chunk.js.map": "https://.github.io/csb-1s9j3f/static/js/2.bd89aead.chunk.js.map",
+    "index.html": "https://.github.io/csb-1s9j3f/index.html",
+    "static/js/2.bd89aead.chunk.js.LICENSE.txt": "https://.github.io/csb-1s9j3f/static/js/2.bd89aead.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.454d8f0a.js",
-    "static/js/2.f518b678.chunk.js",
+    "static/js/runtime-main.474454e8.js",
+    "static/js/2.bd89aead.chunk.js",
     "static/js/main.e1b72862.chunk.js"
   ]
 }
